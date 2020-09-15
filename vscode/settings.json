@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "material-icon-theme.folders.associations": {
+        "repositories": "database"
+    }
+    
+    //nodejs especific
+    
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
